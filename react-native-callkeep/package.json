@@ -1,0 +1,65 @@
+{
+  "_args": [
+    [
+      "react-native-callkeep@4.0.0",
+      "/Users/dev/Desktop/video_call/CallKeep"
+    ]
+  ],
+  "_from": "react-native-callkeep@4.0.0",
+  "_id": "react-native-callkeep@4.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-Mw5B1GnapNpwxoBFYl12TylYe7hqe21jmGrfQULmA22NTrIdwbVJsCP1RGKQVJZIUm3dzQ+ZiC3dcqRoCZlXVg==",
+  "_location": "/react-native-callkeep",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-native-callkeep@4.0.0",
+    "name": "react-native-callkeep",
+    "escapedName": "react-native-callkeep",
+    "rawSpec": "4.0.0",
+    "saveSpec": null,
+    "fetchSpec": "4.0.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-callkeep/-/react-native-callkeep-4.0.0.tgz",
+  "_spec": "4.0.0",
+  "_where": "/Users/dev/Desktop/video_call/CallKeep",
+  "author": {
+    "name": "See AUTHORS file"
+  },
+  "bugs": {
+    "url": "https://github.com/react-native-webrtc/react-native-callkeep/issues"
+  },
+  "contributors": [
+    {
+      "name": "See AUTHORS file"
+    }
+  ],
+  "dependencies": {},
+  "description": "iOS 10 CallKit and Android ConnectionService Framework For React Native",
+  "devDependencies": {
+    "react-native": ">=0.40.0"
+  },
+  "homepage": "https://github.com/react-native-webrtc/react-native-callkeep#readme",
+  "license": "ISC",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "See AUTHORS file"
+    }
+  ],
+  "name": "react-native-callkeep",
+  "peerDependencies": {
+    "react-native": ">=0.40.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/react-native-webrtc/react-native-callkeep.git"
+  },
+  "scripts": {},
+  "typings": "./index.d.ts",
+  "version": "4.0.0"
+}
